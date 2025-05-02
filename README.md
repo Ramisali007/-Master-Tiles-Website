@@ -1,9 +1,5 @@
-Here is an enhanced and more detailed version of your `README.md` file. I've improved formatting, added more descriptions, and structured it for a professional GitHub project page:
 
----
-
-```markdown
-# 🏢 Master Tiles – Premium Tile Company Website
+## 🏢 Master Tiles – Premium Tile Company Website
 
 ![Master Tiles Banner](assets/images/banner.png)
 
