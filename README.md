@@ -73,7 +73,7 @@ master-tiles/
 
 1. Clone or download the repository:
     ```
-   [https://github.com/Ramisali007/-Master-Tiles-Website)]  ```
+   https://github.com/Ramisali007/-Master-Tiles-Website  ```
 
 2. Move the folder to your XAMPP `htdocs` directory:
     ```
@@ -83,7 +83,7 @@ master-tiles/
 3. Start **Apache** and **MySQL** from XAMPP Control Panel.
 
 4. Import the database:
-    - Go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+    - Go to [[http://localhost/phpmyadmin](http://localhost/phpmyadmin)](http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=master_tiles&table=quotes)
     - Create a new database named `mastertiles`
     - Import the `create_tables.sql` file
 
@@ -162,12 +162,9 @@ CREATE TABLE contacts (
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-* Ibraheem
-* Makki
 * Ramis Ali
-* \[Add others if applicable]
 
 ---
 
@@ -182,7 +179,7 @@ This project is open-source and available under the **MIT License**. Feel free t
 For project inquiries or contributions, contact us at:
 
 ```
-📧 your-email@example.com
+📧 ramisali.k786@gmail.com
 🌐 www.mastertiles.com
 ```
 
