@@ -83,7 +83,7 @@ master-tiles/
 3. Start **Apache** and **MySQL** from XAMPP Control Panel.
 
 4. Import the database:
-    - Go to [[http://localhost/phpmyadmin](http://localhost/phpmyadmin)](http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=master_tiles&table=quotes)
+    - Go to [(http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=master_tiles&table=quotes)
     - Create a new database named `mastertiles`
     - Import the `create_tables.sql` file
 
