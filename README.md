@@ -1,7 +1,6 @@
 
 ## 🏢 Master Tiles – Premium Tile Company Website
 
-![Master Tiles Banner](assets/images/banner.png)
 
 Master Tiles is a fully functional, responsive, and dynamic website designed for a premium tile company. This website allows visitors to explore tile collections, request custom product quotes, and contact the company directly. The site also includes a basic admin panel for managing customer interactions.
 
