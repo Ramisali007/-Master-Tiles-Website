@@ -74,7 +74,9 @@ master-tiles/
 1. Clone or download the repository:
     ```
 [    https://github.com/your-username/master-tiles.git
-](https://github.com/Ramisali007/-Master-Tiles-Website)    ```
+](https://github.com/Ramisali007/-Master-Tiles-Website)  
+
+```
 
 2. Move the folder to your XAMPP `htdocs` directory:
     ```
