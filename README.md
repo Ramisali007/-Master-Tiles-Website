@@ -183,8 +183,5 @@ For project inquiries or contributions, contact us at:
 🌐 www.mastertiles.com
 ```
 
-```
-
----
 
 
